@@ -36,7 +36,7 @@ QA reports for the Tennessee State Library and Archives to prepare for DPLA inge
 | metadata.oai_qdc:qualifieddc.dc:language                 | String                              |         142 |   1.6482878699941961 |
 | metadata.oai_qdc:qualifieddc.dcterms:isFormatOf          | String                              |          46 |   0.5339524085896692 |
 
-##Unique Values
+## Unique Values
 
 * dc:creator
 * dc:contributor
