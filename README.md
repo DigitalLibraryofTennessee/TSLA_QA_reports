@@ -1,40 +1,41 @@
 # TSLA_QA_reports
-QA reports for the Tennessee State Library and Archives to prepare for DPLA ingest.
+QA reports for the Tennessee State Library and Archives to prepare for DPLA ingest - sets p15138coll26, p15138coll23, p15138coll2, p15138coll42, and stateguard are not represented due to missing rights/availability through OAI-PMH.
 
+| key                                                      | types                      | occurrences | percents             |
+| -------------------------------------------------------- | -------------------------- | ----------- | -------------------- |
+| _id                                                      | ObjectId                   |        2642 | 100.0000000000000000 |
+| metadata                                                 | Object                     |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc                             | Object                     |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc.@xmlns:dc                   | String                     |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc.@xmlns:dcterms              | String                     |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc.@xmlns:oai_qdc              | String                     |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc.@xmlns:xsi                  | String                     |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc.@xsi:schemaLocation         | String                     |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc.dc:identifier               | Array (2522),String (120)  |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc.dc:title                    | String                     |        2642 | 100.0000000000000000 |
+| oai_provider                                             | String                     |        2642 | 100.0000000000000000 |
+| record_id                                                | String                     |        2642 | 100.0000000000000000 |
+| metadata.oai_qdc:qualifieddc.dc:rights                   | String                     |        2636 |  99.7728993186979523 |
+| metadata.oai_qdc:qualifieddc.dc:description              | Array (1510),String (1123) |        2633 |  99.6593489780469355 |
+| metadata.oai_qdc:qualifieddc.dc:source                   | Array (2083),String (541)  |        2624 |  99.3186979560938710 |
+| metadata.oai_qdc:qualifieddc.dc:type                     | String (2593),Array (30)   |        2623 |  99.2808478425435226 |
+| metadata.oai_qdc:qualifieddc.dc:format                   | String                     |        2614 |  98.9401968205904581 |
+| metadata.oai_qdc:qualifieddc.dc:subject                  | String (829),Array (1634)  |        2463 |  93.2248296744890297 |
+| metadata.oai_qdc:qualifieddc.dc:date                     | String                     |        2364 |  89.4776684330053058 |
+| metadata.oai_qdc:qualifieddc.dc:coverage                 | String (1862),Array (218)  |        2080 |  78.7282361847085497 |
+| metadata.oai_qdc:qualifieddc.dcterms:medium              | String                     |        1224 |  46.3285389856169587 |
+| metadata.oai_qdc:qualifieddc.dc:creator                  | String                     |        1135 |  42.9598788796366406 |
+| metadata.oai_qdc:qualifieddc.dcterms:instructionalMethod | String                     |         996 |  37.6987130961392864 |
+| metadata.oai_qdc:qualifieddc.dc:publisher                | String (448),Array (4)     |         452 |  17.1082513247539758 |
+| metadata.oai_qdc:qualifieddc.dcterms:spatial             | String                     |         451 |  17.0704012112036345 |
+| metadata.oai_qdc:qualifieddc.dcterms:isPartOf            | String                     |         430 |  16.2755488266464816 |
+| metadata.oai_qdc:qualifieddc.dc:contributor              | String                     |         286 |  10.8251324753974263 |
+| metadata.oai_qdc:qualifieddc.dcterms:references          | String                     |         189 |   7.1536714610143832 |
+| metadata.oai_qdc:qualifieddc.dcterms:isVersionOf         | String                     |         150 |   5.6775170325510977 |
+| metadata.oai_qdc:qualifieddc.dc:language                 | String                     |         142 |   5.3747161241483727 |
+| metadata.oai_qdc:qualifieddc.dcterms:isFormatOf          | String                     |          46 |   1.7411052233156699 |
++----------------------------------------------------------------------------------------------------------------------------+
 
-| key                                                      | types                               | occurrences | percents             |
-| -------------------------------------------------------- | ----------------------------------- | ----------- | -------------------- |
-| _id                                                      | ObjectId                            |        8615 | 100.0000000000000000 |
-| metadata                                                 | Object                              |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc                             | Object                              |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc.@xmlns:dc                   | String                              |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc.@xmlns:dcterms              | String                              |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc.@xmlns:oai_qdc              | String                              |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc.@xmlns:xsi                  | String                              |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc.@xsi:schemaLocation         | String                              |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc.dc:identifier               | Array (3281),String (5334)          |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc.dc:title                    | String                              |        8615 | 100.0000000000000000 |
-| oai_provider                                             | String                              |        8615 | 100.0000000000000000 |
-| record_id                                                | String                              |        8615 | 100.0000000000000000 |
-| metadata.oai_qdc:qualifieddc.dc:source                   | Array (6772),String (1769)          |        8541 |  99.1410330818340100 |
-| metadata.oai_qdc:qualifieddc.dc:coverage                 | String (5025),Array (2453)          |        7478 |  86.8020893789901322 |
-| metadata.oai_qdc:qualifieddc.dc:date                     | String (6243),null (1),Array (1048) |        7292 |  84.6430644225188615 |
-| metadata.oai_qdc:qualifieddc.dc:description              | Array (3403),String (3639)          |        7042 |  81.7411491584445713 |
-| metadata.oai_qdc:qualifieddc.dc:subject                  | Array (3720),String (2479)          |        6199 |  71.9558908879860724 |
-| metadata.oai_qdc:qualifieddc.dc:type                     | String (4587),Array (30)            |        4617 |  53.5925710969239688 |
-| metadata.oai_qdc:qualifieddc.dc:format                   | String                              |        4609 |  53.4997098084735896 |
-| metadata.oai_qdc:qualifieddc.dcterms:spatial             | String                              |        4354 |  50.5397562391178212 |
-| metadata.oai_qdc:qualifieddc.dc:rights                   | String                              |        4138 |  48.0325014509576320 |
-| metadata.oai_qdc:qualifieddc.dc:creator                  | String                              |        3540 |  41.0911201392919310 |
-| metadata.oai_qdc:qualifieddc.dc:publisher                | String (3471),Array (4)             |        3475 |  40.3366221706326158 |
-| metadata.oai_qdc:qualifieddc.dcterms:medium              | String                              |        2884 |  33.4764944863609983 |
-| metadata.oai_qdc:qualifieddc.dcterms:isPartOf            | String                              |        1983 |  23.0179918746372607 |
-| metadata.oai_qdc:qualifieddc.dcterms:references          | String                              |        1338 |  15.5310504933255942 |
-| metadata.oai_qdc:qualifieddc.dcterms:instructionalMethod | String                              |        1102 |  12.7916424840394658 |
-| metadata.oai_qdc:qualifieddc.dcterms:isVersionOf         | String                              |         837 |   9.7156123041207199 |
-| metadata.oai_qdc:qualifieddc.dc:contributor              | String                              |         364 |   4.2251886244921648 |
-| metadata.oai_qdc:qualifieddc.dc:language                 | String                              |         142 |   1.6482878699941961 |
-| metadata.oai_qdc:qualifieddc.dcterms:isFormatOf          | String                              |          46 |   0.5339524085896692 |
 
 ## Unique Values
 
