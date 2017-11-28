@@ -1,0 +1,1104 @@
+# Report
+---
+These are the distinct values associated with metadata.oai_qdc:qualifieddc.dc:date:
+
+1. 1914-1918
+2. 1920 June 10
+3. 1919
+4. 1918 August 25
+5. 1917-1918
+6. 1917-1920
+7. 1918
+8. 1937
+9. 1920 July 19
+10. undated
+11. 1918 December 25
+12. 1918 -1919
+13. before 1920
+14. 1900-1920
+15. 1919 April 5
+16. 1921 February
+17. 1948
+18. approximately 1918
+19. 1919 January 5
+20. 1919 February 7
+21. 1919 March 29
+22. 1918 November 23
+23. 1917 January 3
+24. 1918 April
+25. around 1918
+26. 1919 March 5
+27. 1923 February 1
+28. 1917 -1918
+29. 1918 November 15
+30. approximately 1920
+31. 1919 November 30
+32. 1918-1919
+33. 1919 May 17
+34. 1918 July
+35. 1920 June 22
+36. 1919 March 4
+37. 1918 July 26
+38. 1922 November 19
+39. 1917 November 5
+40. 1917 December 29
+41. 1918 May 24
+42. 1918 September
+43. 1918 January 18
+44. 1917 October 22
+45. 1918-1920
+46. 1920-1930
+47. 1917-1919
+48. 1920 December 11
+49. 1910 April 21
+50. 1917
+51. 1919 April
+52. 1916
+53. 1926 January 19
+54. 1917-18
+55. 1919 January 13
+56. 1930 January 16
+57. before 1915
+58. 1919 Feb. 8
+59. late 19th century
+60. 1918 November 5
+61. 1918 November 29
+62. 1943
+63. 1919 April 29
+64. 1906
+65. 1905-1918
+66. 1917 May
+67. after 1940
+68. 1918 July 23
+69. 1918 July 18
+70. 1918 December 19
+71. 1919 May 19
+72. before 1975
+73. 1921
+74. 1919-1923
+75. 1917-1923
+76. 1974
+77. 1985 December 31
+78. 1955
+79. 1919 February 17
+80. 1919 January 24
+81. 1914-1919
+82. 1903-1940
+83. 1919 February 28
+84. 1992 October
+85. 1918 January 23
+86. 1919 May 6
+87. 1918 May 8
+88. 1919 June 1
+89. 1919 July 31
+90. 1918 July 5
+91. 1919-1921
+92. 1922 February 14
+93. 1919 May 16
+94. 1919 June 8
+95. 1920 July 11
+96. 1919 March 18
+97. 1918 December 7
+98. 1918 December 27
+99. 1918 December 5
+100. 1892-1899
+101. before 1914
+102. 1918 December 16
+103. 1918 October 12
+104. 1917 June 24
+105. 1915
+106. 1919 May 31
+107. 1917 Jul 14
+108. 1918 Apr 18
+109. 1918 Aug 21
+110. 1919 Apr 1
+111. 1919 May 15
+112. 1919 May 21
+113. 1919 March 22
+114. 1975 November 3
+115. 1919 January 11
+116. 1949 November 19
+117. 1917 October 13
+118. 1918 August 3
+119. 1917 October 17
+120. 1951
+121. 1921 March
+122. 1918-1928
+123. 1921 November
+124. 1917 September 25
+125. 1916-1920
+126. 1918 October 30
+127. after 1918
+128. 1915 August 25
+129. 1917-1921
+130. 1918 September 11
+131. 1919 May 7
+132. 1918 September 7
+133. 1918 August 23
+134. 1918 September 3
+135. 1918 August 18
+136. 1918 September 9
+137. 1918 September 2
+138. 1918 August 26
+139. 1918 September 6
+140. 1919 February 19
+141. 1919 February 11
+142. 1919 January 1
+143. 1918 October 13
+144. 1918 October 24
+145. 1918 October 26
+146. 1918 November 8
+147. 1918 November 10
+148. 1918 November 14
+149. 1918 November 1
+150. 1918 November 17
+151. 1918 November 28
+152. 1918 November 30
+153. 1916 August 17
+154. 1917 September 23
+155. 1960s
+156. 1949 June 24
+157. 1936 July
+158. 1968 April 25
+159. 1918 April 24
+160. approximately 1917
+161. 1919 July 9
+162. 1917 October 3
+163. 1919 August 27
+164. 1937 or 1938
+165. 1918 March 20
+166. 1927
+167. 1911-1920
+168. 1912-1920
+169. 1917 October 12
+170. 1918 December 28
+171. 1973 August
+172. 1918 October 19
+173. 1918 May 14
+174. 1918 May 23
+175. 1918 August 19
+176. 1918 October 4
+177. 1918 November 7
+178. 1919 March 6
+179. 1918-1932
+180. 1918 July 24
+181. 1922 January 1
+182. 1917 August 3
+183. 1919 Feb 18
+184. 1918 June 29
+185. 1918 October 28
+186. 1919 March 28
+187. Summer 1953
+188. 1952 July
+189. 1952 January
+190. 1953
+191. 1952
+192. Spring 1953
+193. Summer 1952 or 1953
+194. Winter 1953
+195. 1966 May
+196. 1952 July/August
+197. Spring/Summer 1952 or 1953
+198. Spring/Summer 1953
+199. 1952 April
+200. Late 1940s
+201. 1952 or 1953
+202. Summer/Fall 1952
+203. 1952 May
+204. Winter 1952-1953
+205. Summer 1952
+206. 1949 or 1950
+207. 1953 January/February
+208. 1947 or 1948
+209. 1952 February
+210. 1952 June
+211. 1952 March
+212. 1946
+213. 1952 August/September
+214. 1950
+215. 2012
+216. 2011 January
+217. 1950s
+218. Fall/Winter 1952
+219. Spring 1952
+220. 1939-1940
+221. 1826 August 13
+222. 1818 April 29
+223. 1815 January 20
+224. 1814 Apr 1
+225. 1828 April 25
+226. 1815 January 3
+227. 1803 October 10
+228. 1803 October 9
+229. 1813 December 19
+230. 1833 June
+231. 1826 May 24
+232. 1826 September 3
+233. 1814 April 2
+234. 1815 January 31
+235. 1823 December 14
+236. 1835 February 2
+237. 1812 June 8
+238. 1814 April 1
+239. 1831 June 6
+240. 1818 October 30
+241. 1843 February 6
+242. 1843 June 7
+243. 1827 August 22
+244. 1854 August 16
+245. 1843
+246. 1817 June 21
+247. 1829 June 8
+248. 1816 September 19
+249. 1831 October 31
+250. 1833 April 18
+251. 1814 January 4
+252. 1814 December 15
+253. 1830 November 7
+254. 1821 August 25
+255. 1803 October 3
+256. 1826 November 25
+257. 1819 September 25
+258. 1828 July 27
+259. 1838 August 8
+260. 1806 May 23
+261. 1828 June
+262. 1828 February 25
+263. 1829 September 1
+264. 1824 March 19
+265. 1816
+266. 1814 March 31
+267. approximately 1828
+268. 1844
+269. undated (approximately 1833)
+270. 1817 August 26
+271. 1848
+272. 1828
+273. undated (approximately 1824)
+274. 1834
+275. 1820
+276. 1815
+277. undated (approximately 1835)
+278. 1837
+279. undated (approximately 1837)
+280. 1814 November 2
+281. 1845 June 9
+282. 1828 October 28
+283. 1817
+284. 1829
+285. undated (approximately 1910)
+286. undated (approximately 1900)
+287. 1825
+288. 1832
+289. undated (approximately 1832)
+290. 1794 January 17
+291. 1798 September 20
+292. approximately 1806
+293. 1833 May 6
+294. 1814 December 5
+295. 1828 August 18
+296. 1815 March 5
+297. 1804
+298. 1833 November 15
+299. 1814 April 22
+300. 1815 January
+301. 1824 October 12
+302. 1814 February
+303. 1814 May
+304. 1814
+305. 1814 September 1
+306. 1798-1799
+307. 1799-1800
+308. 1800-1801
+309. 1863 June 30
+310. 1864 January 21
+311. 1864 March 5
+312. 1864 February 24
+313. 1863 August 27
+314. 1863 August 8
+315. 1863 December 18
+316. 1863
+317. 1864 February 25
+318. 1864 January 18
+319. 1863 August 3
+320. January 1859-May 1863
+321. 1855-1861
+322. Approximately 1918
+323. 1930s
+324. 1919 January 16
+325. approximately 1900
+326. approximately 1890s
+327. 1866 May 6
+328. 1887
+329. 1892
+330. 1901
+331. approximately 1890
+332. approximately 1875
+333. approximately 1870s
+334. approximately 1880s
+335. 1897
+336. 1880s
+337. 1871
+338. 1917 February 3
+339. approximately 1930s
+340. 1898
+341. 1909
+342. 1900
+343. 1893
+344. 1886
+345. 1889
+346. circa 1960s
+347. 1960 June 30
+348. 1970-1971
+349. 1946 November 5
+350. 1948 June 10
+351. 1957
+352. 1858
+353. 1860s
+354. approximately 1869
+355. 1850
+356. 1846
+357. 1946 June 28
+358. 1953 June 19
+359. 1940 September 2
+360. 1939 December 25
+361. 1946 June 19
+362. 1815 January 8
+363. Approximately 1937-1940
+364. 1813
+365. 1940 September 24
+366. 1859
+367. 1959 December 16
+368. approximately 1910s
+369. 1908 October 12
+370. 1909 January 19
+371. 1872
+372. approximately 1941
+373. 1845
+374. 1941 July 18th
+375. 1870s
+376. 1873 or 1878
+377. 1863 October 10-13
+378. 1885 March 31
+379. 1862
+380. 1866
+381. 1868 July 4
+382. 1867 November 16
+383. 1954 May 27
+384. 1958 September 15
+385. 1963 September 30
+386. 1954 March 18
+387. 1959 February 26
+388. 1959
+389. 1956 September 3
+390. 1922 February 3
+391. approximately 1920-1924
+392. 1925
+393. 1920 August 9
+394. 1920s
+395. 1921 November 7
+396. 1931
+397. 1921 January 2
+398. 1920 July 23
+399. 1922 March 29
+400. 1918 January 13
+401. approximately 1940
+402. 1973
+403. 1948 April 2
+404. 1945 April 20
+405. 1967
+406. approximately 1899
+407. 1941 May 12
+408. 1926 April 4
+409. 1892 March 1
+410. 1892 August 17
+411. 1942
+412. 1942 January 24
+413. 1878 October 7th
+414. 1945
+415. 1879 July 18
+416. 1893 March 2
+417. 1841 January 4
+418. 1942 January 20
+419. 1943 May 24
+420. 1895 November 11th
+421. 1941-1945
+422. 1879
+423. 1956 January 22
+424. 1868 March 19
+425. 1940 September 27
+426. 1892 July 28
+427. 1892 July 24
+428. 1975 September 30
+429. 1956 December 10
+430. 1956 September 5
+431. 1956 August 30
+432. 1956 September 30
+433. 1996
+434. 1943 July 31
+435. 1991
+436. 1945 August 12
+437. 1945 August 8
+438. 1945 August 7
+439. 1824
+440. 1975 January 17
+441. 1956 December 3
+442. 1975 March 17
+443. 1956 September 6
+444. 1956 September 4
+445. 1956 September 15
+446. 1956 November 21
+447. 1956 August 23
+448. 1956 September 13
+449. 1945 August 13
+450. 1945 August 27
+451. 1945 September 3
+452. 1939-1947
+453. 1943 July 14
+454. 1785 October 24
+455. 1785 May 15
+456. 1845 January 20
+457. 1785 July 19
+458. 1785 September 19
+459. 1908
+460. 1868 March 25
+461. 1820 December 29th
+462. 1821 January 15th
+463. 1825 December 21st
+464. 1826 January 3
+465. 1855 April 30th
+466. 1893 February 28th
+467. 1991-1993
+468. 1991 November 21
+469. 1944
+470. 1915 December 23rd
+471. 1892 July 22
+472. 1835 November 28th
+473. 1945 March 10
+474. 1892 April 30th
+475. 1879 July 22
+476. 1884 September 1
+477. approximately 1891
+478. 1948 March 19
+479. 1914
+480. 1890-1934
+481. 1896 January 10
+482. 1946 February 27, 28
+483. 1946 February 26
+484. 1946 May 29
+485. 1874 July 16
+486. 1889 January 09
+487. 1895 April 07
+488. 1889 July 31
+489. 1893 November 18
+490. 1895 December 31
+491. 1889 October 10
+492. 1895 June 04
+493. 1976 February 9
+494. 1976 February 8
+495. 1960 September 16
+496. 1970 March 12
+497. 1953 September 9
+498. Approximately 1917
+499. 1922 December 16
+500. 1908 January 9
+501. 1940s
+502. 1977 August 17
+503. 1980 July 29
+504. 1961 March 7
+505. 1969 May 22
+506. 1955 November 22
+507. 1957 May 1
+508. 1963 May 17
+509. 1976 February 10
+510. 1977 February 1
+511. 1989 July 29
+512. 1989 July 30
+513. 1990 February 3
+514. 1992 May 11
+515. 1946 February 27
+516. 1946 February 28
+517. 1924 September 21
+518. Undated
+519. 1950 October 13
+520. approximately 1923 - 1927
+521. 1968 October 1
+522. 1967 June 1
+523. 1939 June 24
+524. 1940 September 1
+525. 1950 June 1
+526. 1925 December 9
+527. 1925 April 25
+528. 1960 April 19
+529. 1960 May 16
+530. 1960 May 31
+531. 1960 April 5
+532. 1960 March 8
+533. 1960 April 21
+534. 1960 April 20
+535. 1960 April 10
+536. 1960 March 26
+537. 1960 March 9
+538. 1960 February 28
+539. 1960 February 14
+540. 1960
+541. 1960 April 25
+542. 1960 March 1
+543. 1960 May 18
+544. approximately 1960
+545. 1961 June 2
+546. 1941 January 25
+547. approximately 1936
+548. 1756
+549. 1942-1945
+550. ca. 1944-1945
+551. ca. 1943
+552. April 1962
+553. 1962 May 5
+554. April 1964
+555. 1959 November 17
+556. 1960 December 27
+557. April 1963
+558. 1961 January 2
+559. 1961 January 9
+560. 1961 April 20
+561. April 1965
+562. 1844 January 21
+563. 1940 October 12
+564. 1923
+565. 1920
+566. 1933
+567. 1936 July 10
+568. 1859-1860
+569. 1847
+570. 1832 March 14th
+571. 1845 March 4th
+572. 1848 May 6th
+573. 1803 October 3rd
+574. 1913 October 15
+575. 1905 October 16
+576. 1880 April 17
+577. 1875 March 3
+578. 1875 April 25
+579. 1944 December 24
+580. 1943 March 22
+581. 1941 May 5
+582. 1944 August 19
+583. 1945 March 29
+584. 1943 July 13
+585. 1993 May 12
+586. 1998 November 10
+587. 1992 March 14
+588. 1943 November 19
+589. 1940-1943
+590. 1943 August 25
+591. 1939-1945
+592. 1943 July
+593. 1941 December 17
+594. 1943 June 22
+595. 1952 September 9
+596. 1943 September 10
+597. 1944 January 5
+598. 1943 July 27
+599. 1943 November 15
+600. 1942 July 3
+601. 1942 November 13
+602. 1943 April 2
+603. 1905 January 2
+604. 1875 January 14
+605. 1845 June 11
+606. 1905 April 11
+607. 1852
+608. 1865 February 22
+609. 1843 September 25
+610. 1843 February 12
+611. 1863 May 6
+612. 1868 July 31
+613. 1802 April 26
+614. 1862 October 5
+615. 1840 June 22
+616. 1867 January 5
+617. 1795-1850
+618. 1854 October 26
+619. 1839 April 24
+620. 1835
+621. 1836 December 18
+622. 1843 March 15
+623. 1839 May 4
+624. 1879 August 21
+625. 1891 July 21
+626. 1879 October 14
+627. 1879 October 16
+628. 1879 September 30
+629. 1933 August 12
+630. 1937 October 6
+631. 1936 June 29
+632. 1935 February 1
+633. 1936 November 4
+634. 1934 April 14
+635. 1937 February
+636. 1937 August 13
+637. 1934 December 13
+638. 1935 January 22
+639. 1935
+640. 1935 January 27
+641. 1935 August 1
+642. 1937 August 12
+643. 1937 June 28
+644. 1936 May 12
+645. 1935 April 8
+646. 1933 August 24
+647. 1932 May 24
+648. 1933 July 24
+649. 1933 December 28
+650. 1937 July 26
+651. 1940
+652. 1935 January 24
+653. 1935 January 23
+654. 1910s-1920s
+655. 1836
+656. ca. 1908
+657. 10 December 1882
+658. approximately 1880
+659. 1967 June
+660. approximately 1915
+661. approximately 1910
+662. 10 July 1882
+663. 1895-1900
+664. 1861-1865
+665. 1787 March 24
+666. 1775 June 24
+667. 1782
+668. 1796 November 8
+669. 1788 August 3
+670. 1922
+671. 1901 April 10
+672. approximately 1935
+673. 1918 May 27
+674. 1918 June 7
+675. 1907 October 15
+676. 1918 June 24
+677. 1919 May 2
+678. 1907 July 15
+679. 1918 June 9
+680. 1916 January 29
+681. 1901 Setpember 2
+682. 1905 March 10
+683. 1905 March 5
+684. 1905 March 25
+685. 1905 March 31
+686. approximately 1888
+687. 1905 March 13
+688. 1905 March 23
+689. 1917 May 5
+690. 1833 February 24
+691. 1803 April 13
+692. 1803 June 9
+693. 1803 August 27
+694. 1803 October 12
+695. 1804 April 11
+696. 1827 November 22
+697. 1838 April
+698. 1839 October 20
+699. 1838 May 3
+700. 1818 March 11
+701. 1798 April 5
+702. 1798
+703. 1809 April 11
+704. 1803 October 17
+705. 1809 February 28
+706. 1823 May
+707. 1836 March 1
+708. 1803 October 20
+709. 1794 October 12
+710. 1807
+711. 1823
+712. 1918 July 12
+713. 1918 November 2
+714. 1918 November 9
+715. 1917 February 9
+716. 1917 April 17
+717. 1917 April 3
+718. 1918 September 4
+719. 1918 September 18
+720. 1919 January
+721. 1875
+722. 1917 May 17
+723. 1906 March 20
+724. 1926 March 3
+725. 1917 May 23
+726. November 1939
+727. 1818 November 19
+728. 1836 October 14
+729. 1838 January 4th
+730. 1838
+731. 1837 February 18
+732. 1838 April 13
+733. 1826 July 19
+734. 1897 October 25
+735. 1818 November 17
+736. 1829 August 29
+737. 1829 April 18
+738. 1832 May 15
+739. 1897 October 22
+740. 1914 July 21
+741. 1973 June 1
+742. 1837 March 22
+743. 1820 August 29
+744. 1836 November 3
+745. 1838 January 20
+746. 1836 October 3
+747. 1835 April 8
+748. 1834 August 16
+749. 1834 November 20
+750. 1819 October 22
+751. 1818 November 25
+752. 1838 October 4
+753. 1838 April 9
+754. 1970
+755. 1842
+756. 1840
+757. 1907 May
+758. approximately 1820
+759. before 1824
+760. 1935 September 6
+761. 1935 October 3
+762. 1936 March
+763. 1946 April 23
+764. 1946 May 21
+765. 1949 August 24
+766. 1938 June 1
+767. 1946 May 16
+768. 1928 July
+769. 1946 January
+770. 1943-1946
+771. 1943 November 6
+772. 1944 July 24
+773. 1945 January 10
+774. 1945 February 18
+775. 1943 May 31
+776. 1944-1945
+777. 1943 May 1
+778. 1943 August 16
+779. 1943 March 30
+780. 1944 February 7
+781. circa 1943
+782. 1943 November 10
+783. 1927 May 27
+784. 1926 December 6
+785. 1926 December 18
+786. 1927 May 28
+787. 1925 September 16
+788. 1869 July 8
+789. 1908 June 13
+790. 1954 May 6
+791. 1954 April 22
+792. after 1941
+793. 1908 June 29
+794. 1861 May 6
+795. 1953 July
+796. 1861 June 8
+797. 1953 October 24
+798. 1964
+799. early 1900s
+800. 1909 November
+801. 1918 September 28
+802. 1907 November 8-13
+803. 1860 February 28th
+804. 1851 January 30
+805. 1946 July
+806. 1963 February 15
+807. 1961 December
+808. 1962 March
+809. 1955 September 9
+810. 1954 April 20
+811. 1954 June 14-15
+812. 1954 November 12
+813. 1870 January 29
+814. 1869 December
+815. 1870 March 12
+816. 1860 April 25
+817. 1961 October
+818. 1917 January 30
+819. 1917 May 18
+820. 1918 May 25
+821. 1915 May 9
+822. 1917 July 29
+823. 1915 November 27
+824. 1916 May 11
+825. 1918 August 13
+826. 1917 April 22
+827. 1856-1888
+828. 4 July 1937
+829. 4 February 1882
+830. 18 September 1952
+831. 17 July 1941
+832. 1911
+833. 24 January 1923
+834. 1900s
+835. 1934
+836. 1958 October 1
+837. 1899 May 16
+838. 1918 June 20
+839. 1905 March 22
+840. 1905 July 3
+841. approximately 1908
+842. approximately 1909
+843. 1918 September 15
+844. 1900 October 30
+845. 1943 March 15
+846. 1942 September 12
+847. 1944 March 18
+848. 1941
+849. 1943 January 30
+850. February 1944
+851. 1838 April 6
+852. 1838 March 10
+853. 1838 February 1
+854. 1838 March 28
+855. 1838 February 14
+856. 1838 March 30
+857. 1838 February 10
+858. 1838 February 6
+859. 1838 May 5
+860. 1868 July 17
+861. 1865 July 10
+862. 1862 March 18
+863. 1865 October 4
+864. 1875 September 1
+865. 1862 February 7
+866. 1866 September 10
+867. 1869
+868. 1865
+869. approximately 1868
+870. 1868 March 28
+871. 1868 May 8
+872. 1868 May 27
+873. 1876 January 11
+874. Aproximately 1865
+875. Aproximately 1866
+876. 1865 August  31
+877. 1865 August 14
+878. 1835 August 8
+879. 17 April 1866
+880. 1865 March 1
+881. 1875 August 3
+882. approximately 1885
+883. 1937-1940
+884. 1861-1863
+885. 1954 May 5
+886. approximately 1861-1864
+887. 1954 June 25
+888. 1953 August 19
+889. 1954 June 18
+890. approximately 1859
+891. 1971
+892. 1941 April 17
+893. 1941 April 21
+894. 1964 July 1
+895. 1978 February 5
+896. 1938 February 4
+897. 1938 January 1
+898. 1938 February 26
+899. 1938 March 8
+900. 1938 March 12
+901. 1938 March 14
+902. 1938 March 18
+903. 1938 April 1
+904. 1938 April 12
+905. 1938 May 6
+906. 1938 May 17
+907. 1938 May 18
+908. 1938 July 16
+909. approximately 1939-1940
+910. 1938 September 12
+911. 1938 September 20
+912. 1938 October 12
+913. 1938 September 15
+914. 1938 October 28
+915. 1938 November 20
+916. 1938 December 12
+917. 1938
+918. 1939 February 6
+919. approximately 1861-1862
+920. 1856
+921. 1861
+922. approximately 1906
+923. approximately 1861
+924. 1860
+925. approximately 1862
+926. approximately 1860
+927. approximately 1865
+928. approximately 1846
+929. 1940 April 9
+930. 1938 January 9
+931. 1941 April 28
+932. 1941 May 10
+933. 1941 May 17
+934. 1941 June 6
+935. 1941 September 12
+936. 1939 May 1
+937. 1941 October 9
+938. 1941 September 28
+939. 1941 December 12
+940. 1941 December 16
+941. 1941 November 25
+942. 1941 September 30
+943. 1941 June 16
+944. 1939 April 3
+945. 1947 August 1
+946. 1939 May 9
+947. 1939 June 5
+948. 1940 December 8
+949. 1940 March 7
+950. 1940 October 23
+951. 1941 January 6
+952. 1941 April 5
+953. 1947 May 9
+954. 1947 June 1
+955. 1948 November 30
+956. 1952 January 9
+957. 1952 April 10
+958. 1953 March 25
+959. 1868
+960. 1952 June 21
+961. 1952 July 1
+962. 1953 January 7
+963. 1956 May 28
+964. 1957 November 1
+965. 1957 September 1
+966. 1938 October 17
+967. 1938 September 2
+968. 1938 December 29
+969. 1938 December 30
+970. 1939 May 3
+971. 1939 September 6
+972. 1939 June 1
+973. 1939 November 11
+974. 1940 July 18
+975. 1940 September 8
+976. 1940 October 8
+977. 1940 December 23
+978. 1941 July 12
+979. 1941 April 27
+980. 1941 April 8
+981. 1941 July 11
+982. 1941 April 13
+983. 1941 April 20
+984. 1941 April 19
+985. 1941 October 14
+986. 1942 April 28
+987. 1942 July 19
+988. 1942 July 25
+989. 1945 September 1
+990. 1945 September 20
+991. 1945 November 3
+992. 1946 April 20
+993. 1946 May 19
+994. 1926
+995. 1946 May 22
+996. 1946 June 30
+997. 1946 June 1
+998. 1946 September 6
+999. 1947 April 1
+1000. 1947 May 5
+1001. 1947 May 6
+1002. 1947 May 3
+1003. 1947 May 13
+1004. 1947 May 14
+1005. 1947 October 6
+1006. 1946 August 1
+1007. 1947 November 19
+1008. 1947 November 1
+1009. 1939 April 5
+1010. 1940 June 14
+1011. 1957 November 11
+1012. 1953 March 11
+1013. 1860-1870
+1014. 1899
+1015. approximately 1878
+1016. 1929
+1017. 1885
+1018. 1849
+1019. 1878
+1020. approximately  1813-1814
+1021. approximately  1882
+1022. before 1880
+1023. approximately  1917-1918
+1024. approximately  1918-1919
+1025. 1880-1890
+1026. approximately 1871-1875
+1027. 1899-1900
+1028. approximately 1914
+1029. 1920 August 27
+1030. 1920 August 16
+1031. 1920 August
+1032. 1920 September 5
+1033. 1920 June25
+1034. 1920 August 19
+1035. 1920 August 14
+1036. 1920 September 25
+1037. 1920 August 23
+1038. 1920 August 11
+1039. 1920 September 2
+1040. 1920 August 21
+1041. 1920 August 24
+1042. 1920 August 2
+1043. 1920 July 21
+1044. 1920 August 4
+1045. 1920 August 13
+1046. 1920 September 4
+1047. 1920 August 10
+1048. 1920 August 20
+1049. 1920 August 22
+1050. 1920 August 26
+1051. 1910
+1052. 1918 April 23
+1053. 1920 August 29
+1054. 1919 July 28
+1055. 1919 December 4
+1056. 1920 July 29
+1057. 1920 August 12
+1058. 1919 June 13
+1059. 1920 July 15
+1060. 1919 February 4
+1061. 1920 June 26
+1062. 1920 June 23
+1063. 1920 June 25
+1064. 1920 June 28
+1065. 1920 August 18
+1066. 1920 November 5
+1067. 1920 November 13
+1068. 1920 July 10
+1069. 1920 July 31
+1070. 1920 August 28
+1071. 1920 July 14
+1072. 1920 August 15
+1073. 1920 March 19
+1074. 1920 April 12
+1075. 1920 July 26
+1076. 1920 June 20
+1077. 1920 July 9
+1078. 1915 September
+1079. 1920 May 19
+1080. 1920 September 13
+1081. 1920 September 1
+1082. 1920 July 3
+1083. 1920 January 27
+1084. 1983 August 3
+1085. 1919 April 16
+1086. 1919 January 22
+1087. 1792 September 8
+1088. 1792 September 7
+1089. 1969
+1090. 1981
+1091. 1855
+1092. 1858 October 16
+1093. 1858 September 23
+1094. 1858 September 16
+1095. 1796-1801
+1096. 1924-1928
+1097. 1924-1966
+1098. approximately 1925
+1099. approximately 1928
+1100. 1926-1928

@@ -1,0 +1,50 @@
+# Report
+---
+These are the distinct values associated with metadata.oai_qdc:qualifieddc.dcterms:isFormatOf:
+
+1. 5560
+2. 5564
+3. 5565
+4. CN 144
+5. CN 22
+6. CN 23
+7. CN 32
+8. CN 31
+9. CN 124
+10. CN 130
+11. CN 133
+12. CN 138
+13. CN 142
+14. CN 101
+15. CN 97
+16. CN 111
+17. CN 59
+18. CN 43
+19. CN 33
+20. CN 228
+21. CN 46
+22. CN 189
+23. CN 190
+24. CN 193
+25. CN 194
+26. CN 171
+27. CN 168
+28. CN 155
+29. CN 149
+30. CN 143
+31. CN 139
+32. CN 135
+33. CN 131
+34. CN 233
+35. CN 126
+36. CN 120
+37. CN 118
+38. CN 115
+39. CN 205
+40. CN 202
+41. CN 208
+42. CN 210
+43. CN 226
+44. CN 98
+45. CN 232
+46. CV 169
