@@ -37,24 +37,24 @@ QA reports for the Tennessee State Library and Archives to prepare for DPLA inge
 
 ## Unique Values
 
-* dc:creator
-* dc:contributor
-* dc:coverage
-* dc:date
-* dc:description
-* dc:format
-* dc:identifier
-* dc:language
-* dc:publisher
-* dc:rights
-* dc:source
-* dc:subject
-* dc:title
-* dc:type
-* dcterms:medium
-* dcterms:isFormatOf
-* dcterms:isPartOf
-* dcterms:isVersionOf
-* dcterms:instructionalMethod
-* dcterms:references
-* dcterms:spatial
+* [dc:creator](TSLAreports/tsla_creator.md)
+* [dc:contributor](TSLAreports/tsla_contributor.md)
+* [dc:coverage](TSLAreports/tsla_coverage.md)
+* [dc:date](TSLAreports/tsla_date.md)
+* [dc:description](TSLAreports/tsla_description.md)
+* [dc:format](TSLAreports/tsla_format.md)
+* [dc:identifier](TSLAreports/tsla_identifier.md)
+* [dc:language](TSLAreports/tsla_language.md)
+* [dc:publisher](TSLAreports/tsla_publisher.md)
+* [dc:rights](TSLAreports/tsla_rights.md)
+* [dc:source](TSLAreports/tsla_source.md)
+* [dc:subject](TSLAreports/tsla_subject.md)
+* [dc:title](TSLAreports/tsla_title.md)
+* [dc:type](TSLAreports/tsla_type.md)
+* [dcterms:medium](TSLAreports/tsla_medium.md)
+* [dcterms:isFormatOf](TSLAreports/tsla_isFormatOf.md)
+* [dcterms:isPartOf](TSLAreports/tsla_isPartOf.md)
+* [dcterms:isVersionOf](TSLAreports/tsla_isVersionOf.md)
+* [dcterms:instructionalMethod](TSLAreports/tsla_instructionalMethod.md)
+* [dcterms:references](TSLAreports/tsla_references.md)
+* [dcterms:spatial](TSLAreports/tsla_spatial.md)
