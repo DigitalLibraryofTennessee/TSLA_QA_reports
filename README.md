@@ -1,6 +1,8 @@
 # TSLA_QA_reports
 QA reports for the Tennessee State Library and Archives to prepare for DPLA ingest - sets p15138coll26, p15138coll23, p15138coll2, p15138coll42, and stateguard are not represented due to missing rights/availability through OAI-PMH.
 
+A mapping from QDC to MODS to MAP4 can be found at https://docs.google.com/spreadsheets/d/1_W04ruiMBxRLt3EKE-C10L42MiI0-E7wX_E5WNmgL3w/edit?usp=sharing
+
 | key                                                      | types                      | occurrences | percents             |
 | -------------------------------------------------------- | -------------------------- | ----------- | -------------------- |
 | _id                                                      | ObjectId                   |        2642 | 100.0000000000000000 |
